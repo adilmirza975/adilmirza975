@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Adil Mirza  
 ### A passionate Data Analyst || Full Stack Developer || Frontend Developer from India  
 
-📧 Email Me 👉 **your-coderxtech284@gmail.com **  
+📧 Email Me 👉 **coderxtech284@gmail.com **  
 _For Collaboration / Projects / Opportunities_ 😊  
 
 ---  
