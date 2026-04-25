@@ -11,7 +11,7 @@ _For Collaboration / Projects / Opportunities_ 😊
 - 👯 **I’m looking to collaborate on:** Data Analytics Projects, Open Source Contributions, React Applications & Full Stack Products  
 - 🤔 **I’m looking for help with:** Backend Scaling, AI Integrations, Freelance Opportunities & Internships  
 - 💬 **Ask me about:** Data Analysis, Dashboard Making, React, Frontend Development, UI/UX & Project Building  
-- 📫 **How to reach me:** your-email@example.com  
+- 📫 **How to reach me:** your-coderxtech284@gmail.com  
 - 😄 **Pronouns:** Mr. Adil  
 - ⚡ **Fun fact:** I turn raw data into insights and ideas into real-world digital products 🚀
 
